@@ -24,7 +24,7 @@
             "rgba(237, 129, 40, 0.89)",
             "rgba(50, 172, 45, 0.97)"
           ],
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "decimals": 1,
           "editable": true,
           "error": false,
@@ -86,7 +86,7 @@
           "thresholds": "",
           "timeFrom": "10s",
           "timeShift": null,
-          "title": "Prometheus Uptime",
+          "title": "prometheus Uptime",
           "type": "singlestat",
           "valueFontSize": "80%",
           "valueMaps": [
@@ -107,7 +107,7 @@
             "rgba(237, 129, 40, 0.89)",
             "rgba(50, 172, 45, 0.97)"
           ],
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -190,7 +190,7 @@
             "rgba(237, 129, 40, 0.89)",
             "rgba(50, 172, 45, 0.97)"
           ],
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "editable": true,
           "error": false,
           "format": "none",
@@ -271,7 +271,7 @@
             "rgba(237, 129, 40, 0.89)",
             "rgba(50, 172, 45, 0.97)"
           ],
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "editable": true,
           "error": false,
           "format": "none",
@@ -354,7 +354,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "decimals": 2,
           "editable": true,
           "error": false,
@@ -434,7 +434,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "editable": true,
           "error": false,
           "fill": 1,
@@ -517,7 +517,7 @@
       "title": "Resources usage"
     },
     {
-      "title": "Prometheus stats",
+      "title": "prometheus stats",
       "height": "250px",
       "editable": true,
       "collapse": false,
@@ -853,7 +853,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "decimals": 0,
           "editable": true,
           "error": false,
@@ -932,7 +932,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "editable": true,
           "error": false,
           "fill": 1,
@@ -1009,7 +1009,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "editable": true,
           "error": false,
           "fill": 1,
@@ -1085,7 +1085,7 @@
           ]
         }
       ],
-      "title": "Prometheus targets"
+      "title": "prometheus targets"
     },
     {
       "collapse": false,
@@ -1095,7 +1095,7 @@
         {
           "aliasColors": {},
           "bars": false,
-          "datasource": "Prometheus",
+          "datasource": "prometheus",
           "decimals": 0,
           "editable": true,
           "error": false,
@@ -1256,7 +1256,7 @@
           ]
         }
       ],
-      "title": "Prometheus requests"
+      "title": "prometheus requests"
     }
   ],
   "time": {
